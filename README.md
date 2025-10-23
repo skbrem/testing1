@@ -1,3 +1,7 @@
-# testing1
+# The Readme for my first test repo
 
-I have figured out how this works now. This is the first part of the job!
+I have figured out how this works now.
+
+## Markdown is awesome
+
+
