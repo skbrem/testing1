@@ -1,5 +1,3 @@
 # testing1
-just a test repo
-So much to learn.
 
-Eyyyy bby
+I have figured out how this works now. This is the first part of the job!
